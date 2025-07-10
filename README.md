@@ -52,7 +52,8 @@ Before running the project, ensure you have the following installed:
        department VARCHAR(100) NOT NULL,
        salary DECIMAL(10, 2) NOT NULL
    );
-   
+
+   ![screenshot](https://github.com/Kvhatte07/javaproject/blob/main/WhatsApp%20Image%202025-07-10%20at%203.49.39%20PM.jpeg?raw=true)
 
 
 Enjoy using the Employee Management System!
