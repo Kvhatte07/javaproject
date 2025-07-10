@@ -53,8 +53,7 @@ Before running the project, ensure you have the following installed:
        salary DECIMAL(10, 2) NOT NULL
    );
 
-   ![screenshot](<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/af85e76d-13e4-4484-9b28-3cff59a6d010" />
-)
+   ![screenshot](WhatsApp Image 2025-07-10 at 3.49.39 PM.jpeg)
 
 
 Enjoy using the Employee Management System!
