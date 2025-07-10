@@ -32,9 +32,9 @@ The project uses the following dependency:
 ## Prerequisites
 Before running the project, ensure you have the following installed:
 
-- Java Development Kit (JDK) 17 or higher
-- Apache Maven 3.8.6 or higher
-- PostgreSQL 15 or higher
+- Java Development Kit (JDK) 17 
+- Apache Maven 3.8.6 
+- PostgreSQL 15 
 
 ## PostgreSQL Setup
 
@@ -52,18 +52,7 @@ Before running the project, ensure you have the following installed:
        department VARCHAR(100) NOT NULL,
        salary DECIMAL(10, 2) NOT NULL
    );
-   ```
+   
 
-3. In `DBConnection.java`, use the following credentials:
-   - **Database:** kvbd  
-   - **User:** kvh  
-   - **Password:** 12345
-
-## How to Run
-
-```bash
-mvn compile
-mvn exec:java -Dexec.mainClass="com.kvhatte.App"
-```
 
 Enjoy using the Employee Management System!
