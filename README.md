@@ -53,7 +53,7 @@ Before running the project, ensure you have the following installed:
        salary DECIMAL(10, 2) NOT NULL
    );
 
-   ![screenshot](WhatsApp Image 2025-07-10 at 3.49.39 PM.jpeg)
+   ![](WhatsApp Image 2025-07-10 at 3.49.39 PM.jpeg)
 
 
 Enjoy using the Employee Management System!
