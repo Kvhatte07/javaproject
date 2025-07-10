@@ -53,7 +53,7 @@ Before running the project, ensure you have the following installed:
        salary DECIMAL(10, 2) NOT NULL
    );
 
-   ![](WhatsApp Image 2025-07-10 at 3.49.39 PM.jpeg)
+   ![output](https://github.com/Kvhatte07/javaproject/blob/main/WhatsApp%20Image%202025-07-10%20at%203.49.39%20PM.jpeg)
 
 
 Enjoy using the Employee Management System!
